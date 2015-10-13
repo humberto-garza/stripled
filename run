@@ -1,0 +1,2 @@
+antlr4 -Dlanguage=Python2 MyGrammar.g4
+python analize.py main.pa

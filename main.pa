@@ -1,0 +1,17 @@
+size 60: MANUAL;
+
+var
+aux1, aux2: int;
+aux3, aux4: float;
+aux5, aux6: bool;
+{
+  for(aux1 = 0; aux1<aux4; aux1=aux1+1)
+  {
+  	LEDS[0].color_on(0,0,0);
+  };
+
+  while(aux5<>aux6)
+  {
+ 	LEDS[0].set_freq(1);
+  };
+}
